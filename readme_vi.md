@@ -67,11 +67,7 @@ Bản v4 dùng giao diện **PharmApp** gọn chiều cao, có **ffmpeg nhúng**
 
 ## 🖼 Giao diện
 
-> (Thay thế bằng ảnh trong repo nếu có)
-
-```
-docs/screenshot.png
-```
+![VideoMergerPro v4 UI](docs/screenshot.png)
 
 ---
 
@@ -157,3 +153,4 @@ docs/screenshot.png
 * 💝 Donate NCT: `https://www.nghiencuuthuoc.com/p/donate.html`
 
 ---
+
