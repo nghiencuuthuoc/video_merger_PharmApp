@@ -71,11 +71,7 @@ v4 ships with a compact **PharmApp** UI, optional **embedded ffmpeg** (no instal
 
 ## 🖼 UI
 
-Add a screenshot to your repo at `docs/screenshot.png` and reference it here:
-
-```
-docs/screenshot.png
-```
+![VideoMergerPro v4 UI](docs/screenshot.png)
 
 ---
 
@@ -166,3 +162,4 @@ A: **No.** Everything is processed locally.
 * (If not embedded) attach `ffmpeg/ffmpeg.exe` or point users to ffmpeg.org
 * Provide `SHA256SUMS.txt`
 * Include this `README.md` and a UI screenshot in `docs/screenshot.png`
+
